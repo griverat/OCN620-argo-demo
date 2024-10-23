@@ -1,0 +1,13 @@
+name: argopy
+channels:
+  - conda-forge
+dependencies:
+  - argopy
+  - ipykernel
+  - ca-certificates
+  - certifi
+  - openssl
+  - matplotlib
+  - cartopy
+  - gsw
+  - cmocean
